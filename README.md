@@ -1,0 +1,1 @@
+# patika ödev 2
